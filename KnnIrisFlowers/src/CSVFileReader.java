@@ -4,10 +4,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author ashraf_sarhan
- *
- */
+
 public class CSVFileReader {
 	
 	//Delimiter used in CSV file
